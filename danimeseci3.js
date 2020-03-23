@@ -23,4 +23,4 @@ let Meseci = [
 ];
 
 exports.Dani = Dani;
-exports.Meseci = this.Meseci;
+exports.Meseci = Meseci;
